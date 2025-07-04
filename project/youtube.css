@@ -1,0 +1,25 @@
+.thumbnail{
+  width: 300px;
+  /* height: 300px; */
+  /* margin: 10px; */
+  border: solid 1px black;
+  /* object-fit: contain;
+  object-position: top; */
+  display: block;
+}
+.searchbar{
+  /* font-size: 20px;
+  margin-left: 12px; */
+  display: block;
+}
+.video-title{
+  width: 300px;
+}
+.video-preview{
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  margin-right: 15px;
+  /* border: solid 1px black;
+  margin: 10px; */
+}
